@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/InitialLoadingScreen.unity
+    guid: f6e7b2c889ec1694098e5b9eda0c525b
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 54b70b106373df149824c4f339fdb727
+  - enabled: 1
+    path: Assets/Scenes/1-1.unity
+    guid: fbbc5c9fc5cd6d343a7d52c2cbf739b1
+  - enabled: 1
+    path: Assets/Scenes/1-2.unity
+    guid: 391eecee38c1be641903fe462facb470
+  - enabled: 1
+    path: Assets/Scenes/4-3.unity
+    guid: 653faf815e8b39b448319ef794d30554
+  - enabled: 1
+    path: Assets/Scenes/1-4.unity
+    guid: 30db7443c1bc7b24ca4f2632bf00c6b0
+  - enabled: 1
+    path: Assets/Scenes/1-5.unity
+    guid: ba74be3ffc85a9b43b6b1a519ec7d493
+  - enabled: 1
+    path: Assets/Scenes/2-1.unity
+    guid: 48b091f3b6edc9048977560d7dcb8a96
+  - enabled: 1
+    path: Assets/Scenes/2-2.unity
+    guid: 7ded2ec49cff9ef47bd2ad95a32a759e
+  - enabled: 1
+    path: Assets/Scenes/2-3.unity
+    guid: b2ea9d5dad3b0c74ca39d2b8b2d95579
+  - enabled: 1
+    path: Assets/Scenes/2-4.unity
+    guid: 2c99b7b121214c145a9a1f573b6cc37f
+  - enabled: 1
+    path: Assets/Scenes/2-5.unity
+    guid: fc7dc6094cf3f1041a1ae3f244066873
+  - enabled: 1
+    path: Assets/Scenes/3-1.unity
+    guid: dda3196efb546884aaa987a3efd6ef4a
+  - enabled: 1
+    path: Assets/Scenes/3-2.unity
+    guid: 2febed8f9c8a27442bb272e7fbf720f2
+  - enabled: 1
+    path: Assets/Scenes/3-3.unity
+    guid: f0f22af29aa149c4aa3b30bb6a5aee7b
+  - enabled: 1
+    path: Assets/Scenes/3-4.unity
+    guid: ba31911e34244e645b0fb8bd2675caf5
+  - enabled: 1
+    path: Assets/Scenes/3-5.unity
+    guid: e502f8c51cc907c4bb898954f0311ffe
+  - enabled: 1
+    path: Assets/Scenes/4-1.unity
+    guid: 721678f614d0f374e9478a3742fc9f8c
+  - enabled: 1
+    path: Assets/Scenes/4-2.unity
+    guid: 13580a5bca8b5794faad335c3c72a51d
+  - enabled: 1
+    path: Assets/Scenes/1-3.unity
+    guid: d5a7024ee2d450e41a4992754552fec8
+  - enabled: 1
+    path: Assets/Scenes/4-4.unity
+    guid: dae8f3f7267684f4c9f2ad49743123bc
+  - enabled: 1
+    path: Assets/Scenes/4-5.unity
+    guid: 58dd6eb41be11b74e8577eb38fa48916
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: a95450e0830fd5340b5546bffcfc2b50
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 79818f05554449e489eb125403e8e284, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: de78b46dcbad1b244b397edd52aa978e, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 8b201a92aaa161a469da6ff3db66ec7e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 71784f5c097ef11419a7ea4622d02cbf, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3c21267f81b6c754c82724f4d9f20a39, type: 2}
